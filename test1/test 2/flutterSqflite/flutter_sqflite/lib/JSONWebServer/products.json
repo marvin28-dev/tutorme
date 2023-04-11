@@ -1,0 +1,12 @@
+[{
+ "productName": "Laptop",
+ "productDescription": "Laptop is most productive development tool",
+ "productPrice": 2000,
+ "productImage": "CheckBox.png"
+ },
+ {
+ "productName": "Tablet",
+ "productDescription": "Tablet is the most useful device ever for meeting",
+ "productPrice": 1500,
+ "productImage": "CheckBox.png"
+ }]
